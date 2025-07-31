@@ -1,1 +1,248 @@
-# sos_gunluk
+[
+  {
+    "hafta_no": 1,
+    "tarih_araligi": "31.07.2025/07.08.2025",
+    "konu": "1. Hafta Günlük Planları",
+    "link": "https://docs.google.com/document/d/1MZqnVozbhYdQY6409awtFvuIiTc7NhFH/export?format=pdf"
+  },
+  {
+    "hafta_no": 2,
+    "tarih_araligi": "15.09.2025/19.09.2025",
+    "konu": "2. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_2"
+  },
+  {
+    "hafta_no": 3,
+    "tarih_araligi": "22.09.2025/26.09.2025",
+    "konu": "3. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_3"
+  },
+  {
+    "hafta_no": 4,
+    "tarih_araligi": "29.09.2025/03.10.2025",
+    "konu": "4. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_1"
+  },
+  {
+    "hafta_no": 5,
+    "tarih_araligi": "06.10.2025/10.10.2025",
+    "konu": "5. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_2"
+  },
+  {
+    "hafta_no": 6,
+    "tarih_araligi": "13.10.2025/17.10.2025",
+    "konu": "6. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_3"
+  },
+  {
+    "hafta_no": 7,
+    "tarih_araligi": "20.10.2025/24.10.2025",
+    "konu": "7. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_1"
+  },
+  {
+    "hafta_no": 8,
+    "tarih_araligi": "27.10.2025/31.10.2025",
+    "konu": "8. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_2"
+  },
+  {
+    "hafta_no": 9,
+    "tarih_araligi": "03.11.2025/07.11.2025",
+    "konu": "9. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_3"
+  },
+  {
+    "hafta_no": 10,
+    "tarih_araligi": "10.11.2025/14.11.2025",
+    "konu": "Ara Tatil",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_1"
+  },
+  {
+    "hafta_no": 11,
+    "tarih_araligi": "17.11.2025/21.11.2025",
+    "konu": "11. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_2"
+  },
+  {
+    "hafta_no": 12,
+    "tarih_araligi": "24.11.2025/28.11.2025",
+    "konu": "12. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_3"
+  },
+  {
+    "hafta_no": 13,
+    "tarih_araligi": "01.12.2025/05.12.2025",
+    "konu": "13. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_1"
+  },
+  {
+    "hafta_no": 14,
+    "tarih_araligi": "08.12.2025/12.12.2025",
+    "konu": "14. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_2"
+  },
+  {
+    "hafta_no": 15,
+    "tarih_araligi": "15.12.2025/19.12.2025",
+    "konu": "15. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_3"
+  },
+  {
+    "hafta_no": 16,
+    "tarih_araligi": "22.12.2025/26.12.2025",
+    "konu": "16. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_1"
+  },
+  {
+    "hafta_no": 17,
+    "tarih_araligi": "29.12.2025/02.01.2026",
+    "konu": "17. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_2"
+  },
+  {
+    "hafta_no": 18,
+    "tarih_araligi": "05.01.2026/09.01.2026",
+    "konu": "18. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_2"
+  },
+  {
+    "hafta_no": 19,
+    "tarih_araligi": "12.01.2026/16.01.2026",
+    "konu": "19. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_1"
+  },
+  {
+    "hafta_no": "20-21",
+    "tarih_araligi": "19.01.2026/30.01.2026",
+    "konu": "20. 21. Hafta Yarı Yıl Tatili",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_2"
+  },
+  {
+    "hafta_no": 22,
+    "tarih_araligi": "02.02.2026/06.02.2026",
+    "konu": "22. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_1"
+  },
+  {
+    "hafta_no": 23,
+    "tarih_araligi": "09.02.2026/13.02.2026",
+    "konu": "23. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_2"
+  },
+  {
+    "hafta_no": 24,
+    "tarih_araligi": "16.02.2026/20.02.2026",
+    "konu": "24. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_3"
+  },
+  {
+    "hafta_no": 25,
+    "tarih_araligi": "23.02.2026/27.02.2026",
+    "konu": "25. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_1"
+  },
+  {
+    "hafta_no": 26,
+    "tarih_araligi": "02.03.2026/06.03.2026",
+    "konu": "26. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_2"
+  },
+  {
+    "hafta_no": 27,
+    "tarih_araligi": "09.03.2026/13.03.2026",
+    "konu": "27. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_3"
+  },
+  {
+    "hafta_no": 28,
+    "tarih_araligi": "16.03.2026/20.03.2026",
+    "konu": "28. Hafta Ara Tatil",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_1"
+  },
+  {
+    "hafta_no": 29,
+    "tarih_araligi": "23.03.2026/27.03.2026",
+    "konu": "29. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_2"
+  },
+  {
+    "hafta_no": 30,
+    "tarih_araligi": "30.03.2026/03.04.2026",
+    "konu": "30. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_3"
+  },
+  {
+    "hafta_no": 31,
+    "tarih_araligi": "06.04.2026/10.04.2026",
+    "konu": "31. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_1"
+  },
+  {
+    "hafta_no": 32,
+    "tarih_araligi": "13.04.2026/17.04.2026",
+    "konu": "32. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_2"
+  },
+  {
+    "hafta_no": 33,
+    "tarih_araligi": "20.04.2026/24.04.2026",
+    "konu": "33. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_3"
+  },
+  {
+    "hafta_no": 34,
+    "tarih_araligi": "27.04.2026/01.05.2026",
+    "konu": "34. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_1"
+  },
+  {
+    "hafta_no": 35,
+    "tarih_araligi": "04.05.2026/08.05.2026",
+    "konu": "35. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_2"
+  },
+  {
+    "hafta_no": 36,
+    "tarih_araligi": "11.05.2026/15.05.2026",
+    "konu": "36. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_3"
+  },
+  {
+    "hafta_no": 37,
+    "tarih_araligi": "18.05.2026/22.05.2026",
+    "konu": "37. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_3"
+  },
+  {
+    "hafta_no": 38,
+    "tarih_araligi": "22.05.2026/29.05.2026",
+    "konu": "38. Hafta Kurban Bayramı Tatili",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_3"
+  },
+  {
+    "hafta_no": 39,
+    "tarih_araligi": "01.06.2026/05.06.2026",
+    "konu": "39. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_3"
+  },
+  {
+    "hafta_no": 40,
+    "tarih_araligi": "08.06.2026/12.06.2026",
+    "konu": "40. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_3"
+  },
+  {
+    "hafta_no": 41,
+    "tarih_araligi": "15.06.2026/19.06.2026",
+    "konu": "41. Hafta Günlük Planları",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_3"
+  },
+  {
+    "hafta_no": 42,
+    "tarih_araligi": "22.06.2026/26.06.2026",
+    "konu": "42. Hafta Sosyal Etkinlik Haftası",
+    "link": "https://drive.google.com/uc?export=download&id=DOSYA_KİMLİĞİ_3"
+  }
+]# sos_gunluk
